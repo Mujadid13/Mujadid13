@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mujadid Sana</h1>
-<p align="center"><b>Founder & CEO @ <a href="https://www.softsincpk.com">SoftSinc Technologies</a></b> · Building AI-powered software that ships</p>
+<p align="center"><b>Founder & CEO @ <a href="https://www.softsincpk.com">SoftSinc Technologies</a></b> · AI Engineer · Building AI-powered software that ships</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mujadidsana"><img src="https://img.shields.io/badge/LinkedIn-mujadidsana-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,10 +12,10 @@
 ### About me
 
 - I run **SoftSinc Technologies** in Lahore, Pakistan. We build AI solutions and custom web products for startups and businesses.
-- I'm a full-stack engineer with a focus on **geospatial ML**: satellite imagery, Google Earth Engine and turning remote-sensing data into products people use.
+- I'm an **AI engineer** and full-stack developer. I build LLM-powered features, AI agents and the products around them, from prototype to production.
 - I co-authored a paper accepted at the **NeurIPS 2026 Tackling Climate Change with ML workshop**.
 - BS Computer Science, Beaconhouse National University.
-- Currently learning **computer vision**: PyTorch, OpenCV, object detection (YOLO) and segmentation, with a focus on satellite imagery.
+- Currently learning **computer vision**: PyTorch, OpenCV, object detection (YOLO) and segmentation.
 
 ### Featured work
 
