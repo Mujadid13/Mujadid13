@@ -15,6 +15,7 @@
 - I'm a full-stack engineer with a focus on **geospatial ML**: satellite imagery, Google Earth Engine and turning remote-sensing data into products people use.
 - I co-authored a paper accepted at the **NeurIPS 2026 Tackling Climate Change with ML workshop**.
 - BS Computer Science, Beaconhouse National University.
+- Currently learning **computer vision**: PyTorch, OpenCV, object detection (YOLO) and segmentation, with a focus on satellite imagery.
 
 ### Featured work
 
